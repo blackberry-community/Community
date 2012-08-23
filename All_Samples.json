@@ -1092,6 +1092,30 @@
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "Note the white space in the URL",
      "tags": [ "java", "client", "youtube", "bbos" ]
+ },
+ "SmartSignals": {
+     "desc": "Handle C-Level BPS events in the Cascades framework",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SmartSignals",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "This sample shows how the AbstractBpsEventHandler interface can be extended to receive BPS events without needing to create a separate thread. These events are then made accessible to the QML layer by creating and registering a C++ class, BPSMonitor, so it is known to QML.",
+     "tags": [ "native", "client", "bps", "bb10", "qml", "cascades", "accelerometer", "gps" ]
+ },
+ "Webcast1SampleApp": {
+     "desc": "Various samples covering the basics of Cascades",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/Webcast1SampleApp",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "This sample was originally demonstrated in the Webcast 'Astonishing UIs using the new BlackBerry 10 framework- part 2' which can be viewed here: https://developer.blackberry.com/cascades/documentation/videos/index.html",
+     "tags": [ "bb10", "qml", "cascades", "layout", "list", "animations", "navigation" ]
+ },
+ "Webcast2SampleApp": {
+     "desc": "Various samples covering the basics of Cascades",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/Webcast2SampleApp",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "This sample was originally demonstrated in the Webcast 'Astonishing UIs using the new BlackBerry 10 framework- part 2' which can be viewed here: https://developer.blackberry.com/cascades/documentation/videos/index.html",
+     "tags": [ "bb10", "qml", "cascades", "layout", "list", "animations", "navigation" ]
  }
 }
 
