@@ -909,6 +909,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "playbook", "sleep", "extension" ]
  },
+ "SmartSignals": {
+     "desc": "Handle C-Level BPS events in the Cascades framework",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SmartSignals",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "This sample shows how the AbstractBpsEventHandler interface can be extended to receive BPS events without needing to create a separate thread. These events are then made accessible to the QML layer by creating and registering a C++ class, BPSMonitor, so it is known to QML.",
+     "tags": [ "native", "client", "bps", "bb10", "qml", "cascades", "accelerometer", "gps" ]
+ },
  "SocialApp": {
      "desc": "Shows integration with Social Apps like FaceBook, Twitter, etc",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp",
@@ -1085,22 +1093,6 @@
      "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
      "tags": [ "air", "client", "bb10", "sql", "json" ]
  },
- "YouTubeClient": {
-     "desc": "How to use the Communication API in BlackBerry 6.0 with YouTube Data API",
-     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/YouTube%20Client",
-     "repo": "Samples-for-Java",
-     "repourl": "http://github.com/blackberry/Samples-for-Java",
-     "note": "Note the white space in the URL",
-     "tags": [ "java", "client", "youtube", "bbos" ]
- },
- "SmartSignals": {
-     "desc": "Handle C-Level BPS events in the Cascades framework",
-     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SmartSignals",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "note": "This sample shows how the AbstractBpsEventHandler interface can be extended to receive BPS events without needing to create a separate thread. These events are then made accessible to the QML layer by creating and registering a C++ class, BPSMonitor, so it is known to QML.",
-     "tags": [ "native", "client", "bps", "bb10", "qml", "cascades", "accelerometer", "gps" ]
- },
  "Webcast1SampleApp": {
      "desc": "Various samples covering the basics of Cascades",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/Webcast1SampleApp",
@@ -1116,6 +1108,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "This sample was originally demonstrated in the Webcast 'Astonishing UIs using the new BlackBerry 10 framework- part 2' which can be viewed here: https://developer.blackberry.com/cascades/documentation/videos/index.html",
      "tags": [ "bb10", "qml", "cascades", "layout", "list", "animations", "navigation" ]
+ },
+ "YouTubeClient": {
+     "desc": "How to use the Communication API in BlackBerry 6.0 with YouTube Data API",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/YouTube%20Client",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "Note the white space in the URL",
+     "tags": [ "java", "client", "youtube", "bbos" ]
  }
 }
 
