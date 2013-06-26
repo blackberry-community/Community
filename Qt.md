@@ -59,6 +59,11 @@ BlackBerry 10 uses Qt from the upstream community at [Gitorious/qt](http://qt.gi
 issues that come from there can also in the corresponding
 [BugReports](http://bugreports.qt-project.org/).
 
+### Qt Databases
+
+[ITTIA DB SQL](http://www.ittia.com/products) is compatible with Qt, it also runs on Blackbery and QNX. ITTIA DB SQL offering includes data replication for Qt developers.
+[Replication made easy with Qt and ITTIA DB SQL](http://youtu.be/MQOIhdcO38k)
+
 ### Qt Samples
 
 TBD.
